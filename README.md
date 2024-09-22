@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalit-kumar-20" alt="lalit-kumar-20" /></a> </p>
 
-- 🌱 I’m currently working on **Machine Learning, NLP, Python, Flask, API Development**
+- 🌱 I’m currently working on **Machine Learning, NLP,SQL, Python, Flask, API Development Previously Worked on ReactJs and NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://lalit-s-portfolio.vercel.app/](https://lalit-s-portfolio.vercel.app/)
 
@@ -14,8 +14,7 @@
 - 💬 Ask me about ** Python, NLP, Machine Learning , Flask, JavaScript, DSA, Competitive Programming, CS Fundamental**
 
 - 📫 How to reach me **lalit007lodhi@gmail.com**
-- 📄 Know about my experiences [Software Engineer(AI/ML) @Novel Patterns](Software Engineer(AI/ML) @Novel Patterns)
-  [Former Software Engineer Intern @Microsoft](Former Software Engineer Intern @Microsoft)
+- 📄 Know about my experiences (Software Engineer(AI/ML) @Novel Patterns, Former Software Engineer Intern @Microsoft)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
