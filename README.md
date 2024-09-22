@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@lalit007lodhi](https://medium.com/@lalit007lodhi)
 
-- 💬 Ask me about **JavaScript, MERN Stack, DSA, Competitive Programming, CS Fundamental**
+- 💬 Ask me about ** Python, NLP, Machine Learning , Flask, JavaScript, DSA, Competitive Programming, CS Fundamental**
 
 - 📫 How to reach me **lalit007lodhi@gmail.com**
-
-- 📄 Know about my experiences [Former Software Engineer Intern @Microsoft](Former Software Engineer Intern @Microsoft)
+- 📄 Know about my experiences [Software Engineer(AI/ML) @Novel Patterns](Software Engineer(AI/ML) @Novel Patterns)
+  [Former Software Engineer Intern @Microsoft](Former Software Engineer Intern @Microsoft)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
